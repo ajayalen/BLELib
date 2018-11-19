@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4B067A0F-4655-419D-8AD1-7FBB8F3DF848}|Default">
+  <MonoDevelop.Ide.ItemProperties.BLEDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLEDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BLEDemo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BLEDemo/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BLEDemo.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BLEDemo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
